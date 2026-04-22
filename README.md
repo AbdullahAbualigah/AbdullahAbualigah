@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdullah Abualigah
+# 👋 Hey, I'm Abdullah M. Abualigah
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+Into+Insights&center=true&width=500&height=45">
@@ -20,7 +20,7 @@
 🎓 Data Science student @ **Jordan University of Science and Technology (JUST)**
 📍 Based in Jordan 🇯🇴
 🔍 Passionate about discovering hidden patterns in data
-⚡ I enjoy solving real-world problems using ML
+⚡ I enjoy solving real-world problems using Machine Learning
 
 > *"Data is silent… until you know how to listen."*
 
@@ -50,7 +50,7 @@
 
 🔹 **ML Project 1** – Classification model with feature engineering
 🔹 **Data Analysis Project** – Insights & visualization dashboard
-🔹 **Competition Project** – WiDS Datathon solution
+🔹 **WiDS Datathon Project** – Predictive modeling solution
 
 ---
 
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbualigah&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbualigah&layout=compact&theme=tokyonight&hide_border=true&hide=typescript,html,css"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🎯 Goals
 
 🥇 Win international datathons
-📚 Master advanced ML & Deep Learning
+📚 Master advanced Machine Learning & Deep Learning
 🌍 Contribute to open source
 
 ---
