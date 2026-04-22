@@ -54,18 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdullahAbualigah&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAbualigah&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbualigah&layout=compact&theme=tokyonight&hide_border=true&hide=typescript,html,css"/>
-</p>
-
----
 
 ## 📊 Activity Graph
 
