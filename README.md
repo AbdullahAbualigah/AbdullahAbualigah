@@ -8,12 +8,6 @@
 ### 👨‍💻 About Me
 **Data Science student at Jordan University of Science and Technology (JUST)** 🎓
 
-I don't just build models; I solve puzzles. I specialize in turning raw, complex datasets into actionable insights through robust ML pipelines. Based in **Jordan 🇯🇴**, I spend my time optimizing hyperparameters and feature engineering for the next big challenge.
-
-- 🔭 **Currently working on:** Advanced predictive modeling and Datathon solutions.
-- ⚡ **Fun Fact:** I believe a dataset is never "messy," it's just waiting for the right EDA.
-- 💬 **Ask me about:** Python, XGBoost, and why data visualization is an art.
-
 ---
 
 ### 🛠️ Tech Stack & Toolbox
