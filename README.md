@@ -27,15 +27,6 @@ I don't just build models; I solve puzzles. I specialize in turning raw, complex
 
 ---
 
-### 📈 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAbualigah&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
 ### 🎯 Current Mission
 - [ ] 🥇 Secure a top rank in an international Datathon (WiDS).
 - [ ] 🧠 Master Deep Learning architectures (Transformers & CNNs).
