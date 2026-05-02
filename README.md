@@ -1,4 +1,4 @@
-# 🚀 Abdullah M. Abualigah
+# 👋 Abdullah M. Abualigah
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Explorer;Machine+Learning+Architect;Predictive+Modeling+Specialist&font=Fira+Code&weight=600&size=28&color=4285F4&width=600&height=50">
 </p>
